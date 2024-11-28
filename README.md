@@ -6,3 +6,4 @@
 4. [SOLID](https://github.com/GJayme/study-solid)
 5. [DDD](https://github.com/GJayme/study-ddd)
 6. [Webflux essentials](https://github.com/GJayme/spring-webflux-essentials)
+7. [CodeFlix - React](https://github.com/GJayme/study-react)
